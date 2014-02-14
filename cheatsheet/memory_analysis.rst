@@ -11,10 +11,10 @@ Memory Analysis
 Commands  Description
 ========  =============================
 connscan  Scan for connection objects
-files     list of open files process
+files     List of open files process
 hibinfo   Convert hibernation file
 procdump  Dump process
-pslist    list of running processes 
+pslist    List of running processes 
 sockscan  Scan for socket objects
 ========  =============================
 
