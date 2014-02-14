@@ -23,3 +23,5 @@ Useful Options
 +---------------------------+-------------------------+
 | streams_interface=windows | streams                 |
 +---------------------------+-------------------------+
+
+[MW Comments: May be useful to add a sample as the SANS webpage about mounting images does.]
